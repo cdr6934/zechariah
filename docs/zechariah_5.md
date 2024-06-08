@@ -1,0 +1,24 @@
+---
+title: Chapter 5
+---
+  <style>
+    .small-text {
+      font-size: 12pt;
+      margin: 2pt;
+    }
+
+  </style>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+```js
+
+import {hl1, hlc,person, place} from './components/icons.js'
+
+```
+# Chapter 5
+Again I lifted my eyes and saw, and behold, a flying scroll! And he said to me, “What do you see?” I answered, “I see a flying scroll. Its length is <span class="blue">twenty cubits</span>, and its width <span class="blue">ten cubits</span>.” Then he said to me, “This is the curse that goes out over the face of the whole land. For everyone who steals shall be cleaned out according to what is on one side, and everyone who swears falsely shall be cleaned out according to what is on the other side. I will send it out, declares the **LORD of Hosts**, and it shall enter the house of the thief, and the house of him who swears falsely by my name. And it shall remain in his house and consume it, both timber and stones.”
+
+Then the angel who talked with me came forward and said to me, “Lift your eyes and see what this is that is going out.” And I said, “What is it?” He said, “This is the basket that is going out.” And he said, “This is their iniquity in all the land.” And behold, the leaden cover was lifted, and there was a woman sitting in the basket! And he said, “This is Wickedness.” And he thrust her back into the basket, and thrust down the leaden weight on its opening.
+
+Then I lifted my eyes and saw, and behold, two women coming forward! The wind was in their wings. They had wings like the wings of a stork, and they lifted up the basket between earth and heaven. Then I said to the angel who talked with me, “Where are they taking the basket?” He said to me, “To the land of ${place()}Shinar, to build a house for it. And when this is prepared, they will set the basket down there on its base.”
